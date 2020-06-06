@@ -1,4 +1,4 @@
 # hello-world
 My first github repository
 
-An edit for following the tutorial.
+Script that prints "Hello World!"
